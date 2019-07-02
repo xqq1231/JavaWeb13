@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jquery-1.11.0" type="kotlin.js">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/jsp/jquery-1.11.0.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
